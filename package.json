@@ -21,5 +21,8 @@
     "test": "jest",
     "test:watch": "jest --watchAll",
     "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "eslint": "^8.43.0"
   }
 }
